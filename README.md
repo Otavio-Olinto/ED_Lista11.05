@@ -24,7 +24,7 @@ Cliente
 3. altura: Double
 ----------------------
 
-Preencher os parâmetros de idade e altura com métodos aleatórios.
+Preencher os parâmetros de idade e altura com valores aleatórios entre:
 
 Margem da idade: 10~40
 Margem de Altura: 1,35~2,00
